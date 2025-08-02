@@ -1,0 +1,6 @@
+/*
+    This is a multiline comment.
+    hello
+    hello
+    ignored
+*/
